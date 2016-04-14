@@ -1,5 +1,6 @@
 ---
-title: 我的第一篇文章
+title: 半城烟沙
+layout: default.html
 ---
 
 # {{ page.title }}
